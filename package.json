@@ -1,0 +1,13 @@
+{
+  "name": "viral-moment-detector",
+  "version": "1.0.0",
+  "description": "AI-powered Twitch clip detector",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build needed for static HTML'"
+  },
+  "keywords": ["twitch", "clips", "viral", "detector"],
+  "author": "",
+  "license": "MIT"
+}
